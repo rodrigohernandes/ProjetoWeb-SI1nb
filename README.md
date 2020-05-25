@@ -4,7 +4,7 @@ Rodrigo Pela Hernandes - SI1nB
 
 Para o escopo desta disciplina será focado inicialmente nas funcionalidades 3.1 e 3.3
 
-3.1 Para se cadastrar só é necessário será necessário a criação de um apelido que seja único,
+3.1 Para se cadastrar só o será necessário a criação de um apelido que seja único,
 uma senha e o e-mail. Localiza-se em um pequeno ícone a extrema direita da barra
 superior do site. Caso o usuário não tenha um login já cadastrado, poderá assim fazê-lo
 dentro do mesmo ícone na janela que se abrirá ao clicar.
